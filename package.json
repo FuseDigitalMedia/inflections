@@ -1,6 +1,7 @@
 {
   "author": "Robert Ferney <capnregex@gmail.com>",
   "name": "inflection",
+  "main" : "./lib/inflection.js"
   "description": "An inflection library for parity with rails inflections.",
   "version": "0.0.0",
   "homepage": "http://github.com/ifit/inflections",
